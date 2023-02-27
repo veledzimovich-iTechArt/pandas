@@ -2,7 +2,7 @@
 
 # Content
 
-- [10 min](10-min)
+- [10 min](#10-min)
 
 - [rates](#rates)
 
