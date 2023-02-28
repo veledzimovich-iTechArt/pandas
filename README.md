@@ -12,4 +12,4 @@ Jupyter notebook based on [10 minutes to pandas](https://pandas.pydata.org/docs/
 
 ## rates
 
-Check exchange rate correlation USD/PLN with average daily temperature
+Check the exchange rate (USD/PLN) correlation with an average daily temperature and interpolated unemployment rate.
