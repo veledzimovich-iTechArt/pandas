@@ -14,6 +14,10 @@ Jupyter notebook based on [10 minutes to pandas](https://pandas.pydata.org/docs/
 
 ## pandas tasks
 
+Kaggle
+
+[kaggle](https://www.kaggle.com/learn/pandas)
+
 Stanford Open Policing Project
 
 [usingpandas.ipynb](https://github.com/justmarkham/pycon-2018-tutorial)
