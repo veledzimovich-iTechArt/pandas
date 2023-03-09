@@ -28,4 +28,10 @@ TED Talks dataset
 
 ## rates
 
+rates.ipynb
+
 Check the exchange rate (USD/PLN) correlation with an average daily temperature and interpolated unemployment rate.
+
+rates_extended.ipynb
+
+Check the exchange rate (USD/PLN) statistics with monthly window
